@@ -1,5 +1,4 @@
-### Olá, jovem!
-## Sou o Rebelatto, prazer! :)
+## Olá, sou o Rebelatto, prazer! :)
 
 ### Durante o dia, sou SRE na Vindi
 A Vindi é uma plataforma de pagamentos online, com o diferencial de que somos a melhor solução quando se trata de pagamentos por assinatura!<br/>
