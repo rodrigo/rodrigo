@@ -1,4 +1,4 @@
-[Trocar idioma para português](/)
+[Trocar idioma para português](https://github.com/rodrigo)
 
 ## Hi! You can call me Rebelatto
 _or any name similar to that_
