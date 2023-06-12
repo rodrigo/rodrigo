@@ -1,4 +1,4 @@
-[Trocar idioma para português](/README.md)
+[Trocar idioma para português](/)
 
 ## Hi! You can call me Rebelatto
 _or any name similar to that_
