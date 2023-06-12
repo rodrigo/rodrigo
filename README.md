@@ -1,3 +1,5 @@
+[change readme to english](/english.md)
+
 ## Olá, sou o Rebelatto, prazer! :)
 
 ### Durante o dia, sou SRE na Vindi
