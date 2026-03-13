@@ -8,4 +8,3 @@ No dia a dia sou SRE / desenvolvedor backend (principalmente Ruby/Rails), e tenh
 <br/><br/>
 Além disso, sou um dos idealizadores do game [Wizavior](https://www.facebook.com/wizaviorgame), onde atuei como um dos Game Designers e prestei assistência como Level Designer até a metade do desenvolvimento do game.
 <br><br>
-.. e as vezes eu [perco minha atenção](https://www.github.com/lost-my-attention).
